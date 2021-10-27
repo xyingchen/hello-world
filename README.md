@@ -1,2 +1,6 @@
 # hello-world
-creating a new repository for the first time
+
+Hi Humans!
+
+This is Ying here trying to create a new repository for the first time.
+I'm adding a message to this branch.
